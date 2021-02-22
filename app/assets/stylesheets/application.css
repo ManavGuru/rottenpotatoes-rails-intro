@@ -16,3 +16,7 @@
 .hilite {
   background-color: yellow;
 }
+
+a:hover {
+  color: hotpink;
+}
